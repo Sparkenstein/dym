@@ -1,0 +1,12 @@
+{
+  "name": "dym",
+  "description": "Did you mean `X`?",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Prabhanjan",
+    "email": "spark@fosslife.com"
+  },
+  "dependencies": {}
+}
